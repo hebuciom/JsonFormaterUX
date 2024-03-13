@@ -1,0 +1,15 @@
+{
+  "color": {
+    "button": {
+      "primary": {
+        "normal": {
+          "border": {
+            "color": {
+              "value": "{color.surface.surface.transparent}"
+            }
+          }
+        }
+      }
+    }
+  }
+}

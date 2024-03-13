@@ -1,0 +1,25 @@
+{
+  "variables": {
+    "button": {
+      "primary": {
+        "normal": {
+          "border": {
+            "color": {
+              "type": "color",
+              "value": "{surface.surface.transparent}",
+              "extensions": {
+                "org.lukasoppermann.figmaDesignTokens": {
+                  "mode": "Primary",
+                  "collection": "button",
+                  "scopes": ["ALL_SCOPES"],
+                  "variableId": "VariableID:1901:11102",
+                  "exportKey": "variables"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+}
+}

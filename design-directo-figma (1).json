@@ -1,0 +1,24 @@
+{
+  "bussiness": {
+    "liverpool": {
+      "primary": {
+        "50": {
+          "type": "color",
+          "value": "#fce6f5ff",
+          "blendMode": "normal",
+          "extensions": {
+            "org.lukasoppermann.figmaDesignTokens": {
+              "mode": "liverpool",
+              "collection": "bussiness",
+              "scopes": [
+                "ALL_SCOPES"
+              ],
+              "variableId": "VariableID:1302:209",
+              "exportKey": "variables"
+            }
+          }
+        }
+      }
+    }
+  }
+}
